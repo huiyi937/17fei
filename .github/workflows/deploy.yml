@@ -29,7 +29,7 @@ jobs:
       - name: Upload to Deno Deploy
         uses: denoland/deployctl@v1
         with:
-          project: "huiyi937-17fei-29"
+          project: "huiyi937-17fei-32"
           entrypoint: "main.ts"
           root: "."
           
